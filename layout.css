@@ -1,0 +1,18 @@
+
+#root{
+	width: 590px;
+	height: 200px;
+	margin: 0px;
+}
+.tree {
+    flex: flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+#master{
+	margin: 20px;
+}
